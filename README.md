@@ -1,6 +1,6 @@
 # 7DaysOfCode -- Alura
 ### Landing Page da Empresa OptimusTech.
-### Basicamente o desafio consiste em produzir uma página web sozinho a partir de um layout proporcionado pelo o intrutur da Alura no Figma.
+### Basicamente o desafio consiste em produzir uma página web sozinho a partir de um layout proporcionado pelo o intrutor da Alura no Figma.
 ### OBS: O Site ainda não possui responsividade.
 
 ![7DAYS1](https://github.com/Quezad4/7daysofcode/assets/105978156/8c87cac2-3586-4603-87a6-66ff173a5eac)
